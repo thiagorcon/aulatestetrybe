@@ -1,3 +1,6 @@
 # aulatestetrybe
+# fazendo testes do README. Novo
 
-fazendo testes do README. Novo
+# começei a treinar
+
+clonei o repositório
